@@ -1,0 +1,3 @@
+defini au lancement de IDLE lui-meme (Sous Windows, la definition de ce repertoire fait partie des proprietes de
+l'icone de lancement).defini au lancement de IDLE lui-meme (Sous Windows, la definition de ce repertoire fait partie des proprietes de
+l'icone de lancement).

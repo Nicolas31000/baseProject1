@@ -1,0 +1,11 @@
+# -*-coding:utf-8 -*
+
+Ecrivez un script qui compte le nombre de mots contenus dans un fichier texte
+Reecrivez un script qui compte le nombre de mots contenus dans un fichier texte
+
+Pour simplifier les explications qui vont suivre, nous indiquerons seulement des noms simples pour les fichiers que
+Nous allons manipuler. si vous procã©dez ainsi dans vos exercices, les fichiers en question seront crees et/ou
+Recherches par python dans le repertoire courant. celui-ci est habituellement le repertoire oã¹ se trouve le script
+Lui-meme, sauf si vous lancez ce script depuis la fenetre d'un shell idle, auquel cas le repertoire courant est
+Defini au lancement de idle lui-meme (sous windows, la definition de ce repertoire fait partie des proprietes de
+L'icone de lancement).
